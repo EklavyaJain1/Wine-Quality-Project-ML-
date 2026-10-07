@@ -84,7 +84,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ## Run
 jupyter notebook wine_quality_prediction.ipynb
 
-You can also upload the notebook and winequality.csv to Google Colab and run all cells.
+<mark> You can also upload the notebook and winequality.csv to Google Colab and run all cells. </mark>
 
 # Tech Stack
 
